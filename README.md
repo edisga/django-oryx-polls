@@ -2,7 +2,7 @@
 
 # Django and PostgreSQL sample for Azure App Service modified to run with Orxy image
 
-The example here refers to the following github reference:
+The example here refers to the following github repo:
 [Azure-Samples/djangoapp]
 (https://github.com/Azure-Samples/djangoapp). 
 
